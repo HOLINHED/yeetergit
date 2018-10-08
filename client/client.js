@@ -8,7 +8,7 @@ form.addEventListener('submit', (event)=>{
 
 function getYeets(){
 
-    fetch(API)
+    fetch(URL)
     .then(function(response) {
       return response.json();
     })
