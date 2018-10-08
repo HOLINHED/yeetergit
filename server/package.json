@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HOLINHED/yeeter/issues"
   },
-  "homepage": "https://github.com/HOLINHED/yeeter#readme"
+  "homepage": "https://github.com/HOLINHED/yeeter#readme",
+  "dependencies": {
+    "cors": "^2.8.4"
+  }
 }
